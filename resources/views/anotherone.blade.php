@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Another page from collaborator #1
+                    Another page from collaborator #1234
                 </div>
 
                 <div class="links">
